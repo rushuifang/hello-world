@@ -49,7 +49,7 @@ Want to edit the site you just published? Let’s practice commits by introducin
 Let’s start with this template:
 
 ```
-<p>Hello World! I’m [username]. This is my website!</p>
+<p>Hello World! I’m Rushui Fang. This is my website! I'm working on quantum error corrections and hopefully I'll get some results!</p>
 ```
 
 To add your introduction, copy our template and click the edit pencil icon at the top right hand corner of the `index.html` file.
